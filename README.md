@@ -2,7 +2,6 @@
 - 👀 I’m interested in Software Development, Web Development and Data Science
 - 🌱 I’m currently learning Django, Data Science and Mechine Learning
 - 💞️ I’m looking to collaborate on Software Development, Web Development and Data Science
-- 📫 How to reach me at j**************n@gmail.com
 
 <!---
 JubJT/JubJT is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

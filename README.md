@@ -10,7 +10,7 @@
 <ul>
     <h3>Tools</h3>
     <ul>
-      <li>Python : Pandas & Numpy.</li>
+      <li>Python : Pandas, Numpy & Scikit-learn.</li>
       <li>Java</li>
       <li>C++</li>
       <li>Familiar with : Django, JavaScript & Go.</li>

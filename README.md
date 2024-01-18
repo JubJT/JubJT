@@ -2,7 +2,7 @@
 
 <h2>:rocket: About Me</h2>
  
-  I am an aspiring data scientist with a strong understanding of programming, computer graphics, and data processing. Along with problem-solving, creative thinking, and time and resource management skills. I am passionate about and skilled in analyzing and visualizing data and committed and determined to make data-driven decisions and solve challenging problems. 
+  I am a Data Scientist with a strong understanding of programming, data analysis, and computer graphics. I am skilled in deriving insights and creating compelling visualizations from data using industry-standard tools such as Tableau, Power BI, PostgreSQL, and Python. My passion lies in making data-driven decisions and solving challenging problems. I leverage my skills and experiences to provide professional analysis and visualization, generate actionable reports, and create intuitive Dashboards. 
   
   __Interests__ : Data Analytics, Data Science, Machine Learning, Backend Development, Software Development, and Cybersecurity. Open to any Job or Collaboration opportunities.
 

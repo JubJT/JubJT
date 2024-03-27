@@ -8,24 +8,28 @@
 
 <h2>:hammer_and_wrench: Skills</h2>
 <ul>
-    <h3>Tools</h3>
+   <h3>Data Analysis and Visualization</h3> 
+      <ul>
+        <li>Microsoft Excel</li>
+        <li>Python : Scikit-learn, Pandas, NumPy, Matplotlib, Seaborn, and Plotly</li>
+        <li>Tableau & Tableau Prep</li>
+        <li>Microsoft Power Bi</li>
+      </ul>
+   <h3>Web Scraping</h3> 
+     <ul>
+      <li>Python : BeautifulSoup and Selenium</li>
+     </ul>
+   <h3>Programming Languages</h3>
     <ul>
-      <li>Python : Pandas, Numpy & Scikit-learn.</li>
+      <li>Python</li>
       <li>Java</li>
       <li>C++</li>
-      <li>Familiar with : Django, JavaScript & Go.</li>
-    </ul>
-    <h3>Data Visualization</h3>
-    <ul>
-      <li>Tableau</li>
-      <li>Power Bi</li>
-      <li>Python : Matplotlib, Seaborn & Plotly.</li>
+      <li>Familiar with : JavaScript & Go.</li>
     </ul>
     <h3>Database Management</h3>
     <ul>
       <li>PostgreSQL</li>
       <li>SQLite</li>
-      <li>MySql</li>
       <li>MongoDB</li>
     </ul>
     <h3>Containerization</h3>
@@ -35,6 +39,7 @@
     <h3>Version Control</h3>
     <ul>
       <li>Git</li>
+      <li>Github</li>
     </ul>
     <h3>Collaboration Tools</h3>
     <ul>
